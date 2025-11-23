@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm a 3rd Year CSE-AIML Undergraduate<br>Passionate about Deep Learning, Neural networks and ML models
+[Portfolio](https://noobiedyg.github.io/)
 
 
 ## 🌐 Socials:
