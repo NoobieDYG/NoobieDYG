@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 3rd Year CSE-AIML Undergraduate<br>Passionate about Deep Learning, Neural networks and ML models
+I'm a 3rd Year CSE-AIML Undergraduate<br>Passionate about Deep Learning, Neural networks and ML models. Currently an Intern @Rewardsy
 [Portfolio](https://noobiedyg.github.io/)
 
 
