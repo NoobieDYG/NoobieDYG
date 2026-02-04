@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm a 3rd Year CSE-AIML Undergraduate<br>Passionate about Deep Learning, Neural networks and ML models. Currently an Intern @Rewardsy
+I’m a BTech student who enjoys building end-to-end systems that combine backend engineering with computer vision. I’ve worked on DOOH customer engagement platforms where real-time video pipelines connect cleanly with APIs, data logging, and service orchestration.
+
+On the backend side, I like designing scalable FastAPI services, working with WebSockets, threading, and clean system boundaries. On the computer vision side, I focus on making models practical handling tracking, performance constraints, and real-time consistency rather than just running inference.
+
+I care a lot about system design, code clarity, and understanding how things work under the hood. Right now, I’m focused on sharpening my backend skills while maintaining a solid CV foundation.
+
+Tech I use often:
+Python, FastAPI, REST & WebSockets, PyTorch, OpenCV, YOLOv8, Tracking Pipelines, System Design
+Currently an Intern @Rewardsy
 [Portfolio](https://noobiedyg.github.io/)
 
 
