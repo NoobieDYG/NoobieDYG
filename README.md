@@ -1,20 +1,80 @@
 # 💫 About Me
 
-I’m a BTech student who enjoys building end-to-end systems that combine backend engineering with computer vision, applied AI and ML. I’ve worked on DOOH customer engagement platforms and several production-focused projects.
+I'm a B.Tech student passionate about building end-to-end systems that combine **Backend Engineering**, **Computer Vision**, and **Applied AI/ML**.
 
-On the backend side, I enjoy designing scalable FastAPI services, working with WebSockets and threading, and keeping clean system boundaries. On the computer vision side, I focus on making models practical — from data and training to inference and deployment.
+I've worked on **DOOH (Digital Out-of-Home) customer engagement platforms**, where real-time video pipelines integrate seamlessly with APIs, analytics, data logging, and service orchestration.
 
-I care a lot about system design, code clarity, and understanding how things work under the hood. Right now, I’m sharpening my backend skills while maintaining a solid computer-vision foundation.
+I also contributed to building a **custom agentic AI platform** during my internship. The platform combines multiple cross-platform tools, custom workflows, and intelligent automation tailored for B2B clients.
 
-Tech I use often:
+🔗 **SuprAI:** https://www.suprai.one/
 
-Python, FastAPI, REST & WebSockets, PyTorch, OpenCV, YOLOv8, Tracking Pipelines, System Design
+---
 
-[Portfolio](https://noobiedyg.github.io/)
+## 🚀 Interests
 
-Experience:
+I enjoy building systems that are not only functional but also scalable and maintainable.
 
-- ML Intern @ SuprEngage (Prev Rewardsy) — Jul 25 -- Jul 26
+### Backend
+- Designing scalable FastAPI services
+- REST APIs & WebSockets
+- Threading & asynchronous systems
+- Clean architecture and system boundaries
+- System Design
+
+### Computer Vision & AI
+- Real-time video processing
+- Object detection & tracking
+- Performance optimization
+- Production-ready inference pipelines
+- Practical ML deployments
+
+Rather than simply running models, I enjoy solving the engineering challenges around making them reliable in real-world applications.
+
+---
+
+## 💻 Tech Stack
+
+**Languages & Frameworks**
+- Python
+- FastAPI
+
+**Computer Vision & AI**
+- PyTorch
+- OpenCV
+- YOLOv8
+
+**Backend**
+- REST APIs
+- WebSockets
+- Multithreading
+
+**Other**
+- Tracking Pipelines
+- System Design
+
+---
+
+## 🌱 Currently
+
+I'm focused on strengthening my **backend engineering skills** while continuing to build a solid foundation in **Computer Vision** and **Applied AI**.
+
+---
+
+## 💼 Experience
+
+### ML Intern — SuprEngage *(formerly Rewardsy)*
+**July 2025 – July 2026**
+
+- Built and contributed to AI-powered customer engagement solutions.
+- Worked on backend services, computer vision pipelines, and production-focused ML systems.
+- Contributed to the development of an agentic AI platform integrating multiple tools and custom workflows for enterprise clients.
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://noobiedyg.github.io/
+
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/affaanjaweed)
