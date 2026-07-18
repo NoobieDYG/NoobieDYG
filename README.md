@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a BTech student who enjoys building end-to-end systems that combine backend engineering with computer vision. I’ve worked on DOOH customer engagement platforms where real-time video pipelines connect cleanly with APIs, data logging, and service orchestration.
+I’m a BTech student who enjoys building end-to-end systems that combine backend engineering with computer vision, applied AI and ML applications. I’ve worked on DOOH customer engagement platforms where real-time video pipelines connect cleanly with APIs, data logging, and service orchestration. Ive also contributed in building a custom agentic platform for my past internship. It combines the use of multiple cross platform tools, custom workflows for a B2B client and much more!. Check it out at [SuprAI](https://www.suprai.one/)
 
 On the backend side, I like designing scalable FastAPI services, working with WebSockets, threading, and clean system boundaries. On the computer vision side, I focus on making models practical handling tracking, performance constraints, and real-time consistency rather than just running inference.
 
@@ -7,9 +7,10 @@ I care a lot about system design, code clarity, and understanding how things wor
 
 Tech I use often:
 Python, FastAPI, REST & WebSockets, PyTorch, OpenCV, YOLOv8, Tracking Pipelines, System Design
-Currently an Intern @Rewardsy
 [Portfolio](https://noobiedyg.github.io/)
 
+Experience:
+ML Intern @SuprEngage (Prev Rewardsy)             Jul 25 -- Jul 26
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/affaanjaweed) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/noobiedyg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NoobieDYG) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@NoobieDYG) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jmd2k23@gmail.com) 
