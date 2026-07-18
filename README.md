@@ -4,7 +4,7 @@ I'm a B.Tech student passionate about building end-to-end systems that combine *
 
 I've worked on **DOOH (Digital Out-of-Home) customer engagement platforms**, where real-time video pipelines integrate seamlessly with APIs, analytics, data logging, and service orchestration.
 
-I also contributed to building a **custom agentic AI platform** during my internship. The platform combines multiple cross-platform tools, custom workflows, and intelligent automation tailored for B2B clients.
+I also contributed to building a **custom agentic AI platform** during my internship. The platform combines multiple cross-platform tools, custom workflows, and intelligent automation tailored for B2B clients. Check it out at the link below.
 
 🔗 **SuprAI:** https://www.suprai.one/
 
